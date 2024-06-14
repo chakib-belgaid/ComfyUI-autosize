@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-autosize"
+description = "A ComfyUI utility plugin designed to optimize the latent space for generating high-quality results. It approximates the closest size model for better generation results."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/chakib-belgaid/ComfyUI-autosize"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-autosize"
+Icon = ""
